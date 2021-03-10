@@ -34,4 +34,4 @@
 * UCD Micros - Java (basic knowledge)
 ### Knowledge of languages: 
 * Russian (native)
-* English (Pre Intermediate)
+* English (Pre Intermediate) 
